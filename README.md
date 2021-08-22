@@ -1,2 +1,5 @@
-# employee_task
- this task app used for calulate the salary of the all emloyee in the company depend on the numbers of the year experience 
+A sample command-line application with an entrypoint in `bin/`, library code
+in `lib/`, and example unit test in `test/`.
+
+Created from templates made available by Stagehand under a BSD-style
+[license](https://github.com/dart-lang/stagehand/blob/master/LICENSE).
